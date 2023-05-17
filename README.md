@@ -1,4 +1,5 @@
-Hi there, I'm Josh O'Leary, online aliases: brogrammer, scientiist 👋
+# brogrammer
+Suh Dude, I'm Josh O'Leary. Welcome to my GitHub profile!
 
 # Contacts
 Email > josh@conarium.software
