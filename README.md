@@ -25,15 +25,17 @@ I'm always expanding my knowledge and exploring new areas. Currently, I'm focuse
 
 💼 Experience
 
-Company/Organization: Conarium Software
+    Company/Organization: Conarium Software
         Role: CEO
         Duration: 2019 - Now
         Description: My own software shop, i've developed & published 1 game to steam so-far, CaveGame.
         
-Company/Organization: LOVECRAFT TEAM / Gam.Bit / exo + aere
+    Company/Organization: LOVECRAFT TEAM / Gam.Bit / exo + aere
         Role: CTO
         Duration: 2021 - Now
-        Description: Chief engineer for a close-knit team of ROBLOX game developers, with a particular interest in realizing the capabilites of Virtual Reality on the platform. Responsible for all high-level technical decisions, implementing VR and other game systems and mechanics, as well as mentoring the "junior" developers in scripting & coding. We have published several experiences across genres on ROBLOX, racking in 10+ million visits and a dedicated community.
+        Description: Chief engineer for a close-knit team of ROBLOX game developers, with a particular interest in realizing the capabilites of Virtual Reality on the platform. 
+        Responsible for all high-level technical decisions, implementing VR and other game systems and mechanics, as well as mentoring the "junior" developers in scripting & coding. 
+        We have published several experiences across genres on ROBLOX, racking in 10+ million visits and a dedicated community.
         
 Company/Organization: Redacted Software
         Role: CTO
