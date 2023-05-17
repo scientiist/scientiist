@@ -41,7 +41,8 @@ I'm always expanding my knowledge and exploring new areas. Currently, I'm focuse
     Company/Organization: Redacted Software
         Role: CTO
         Duration: 2023 - Now
-        Description: This is my good friend William's group, and I work with him to develop software to solve practical problems, using C++ and the Linux platform. Our products include UserDB, TuxID, and several small utility programs for Linux such as TODO lists.
+        Description: I work with a friend to develop software to solve practical problems.
+        Generally using C++ and Linux. Our products include UserDB, TuxID, and several small utility programs for Linux such as TODO lists.
         
     Company/Organization: Squid Games
         Role: Previously CTO, now consultant.
