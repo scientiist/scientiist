@@ -33,26 +33,27 @@ I'm always expanding my knowledge and exploring new areas. Currently, I'm focuse
     Company/Organization: LOVECRAFT TEAM / Gam.Bit / exo + aere
         Role: CTO
         Duration: 2021 - Now
-        Description: Chief engineer for a close-knit team of ROBLOX game developers, with a particular interest in realizing the capabilites of Virtual Reality on the platform. 
-        Responsible for all high-level technical decisions, implementing VR and other game systems and mechanics, as well as mentoring the "junior" developers in scripting & coding. 
+        Description: Lead Programmer for a close-knit team of ROBLOX game developers.
+        We are passionate about Virtual Reality, and we aim to realize the potential of VR on the ROBLOX platform. 
+        Responsible for all high-level technical decisions, scripting, bug-fixing, and some game design.
         We have published several experiences across genres on ROBLOX, racking in 10+ million visits and a dedicated community.
         
-Company/Organization: Redacted Software
+    Company/Organization: Redacted Software
         Role: CTO
         Duration: 2023 - Now
         Description: This is my good friend William's group, and I work with him to develop software to solve practical problems, using C++ and the Linux platform. Our products include UserDB, TuxID, and several small utility programs for Linux such as TODO lists.
         
-Company/Organization: Squid Games
+    Company/Organization: Squid Games
         Role: Previously CTO, now consultant.
         Duration: 2022 - Now
         Description: Game designer, senior developer, and consultant for ROBLOX game development.
         
-Company/Organization: GameFam
+    Company/Organization: GameFam
         Role: Entry-Level Developer
         Duration: 6mo
         Description: Responsible for implementing backend systems, game features, tracking down and fixing bugs, performance monitoring, and so forth.
 
-Freelance Projects: [List any relevant freelance projects you have worked on, mentioning the programming languages and technologies used]
+    Freelance Projects: [List any relevant freelance projects you have worked on, mentioning the programming languages and technologies used]
 
 🚀 Personal Projects
 
