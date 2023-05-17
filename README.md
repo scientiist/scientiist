@@ -2,6 +2,7 @@ Hi there, I'm Josh O'Leary, online aliases: brogrammer, scientiist 👋
 
 # Contacts
 Email > josh@conarium.software
+
 Discord > brogrammer#6360
 
 Welcome to my GitHub profile! I'm a hobbyist and freelance programmer with a keen interest in computer graphics, physics, mathematics, game engines, and other scientific disciplines. I enjoy exploring the intersection of technology and creativity, and I'm constantly learning and experimenting with new concepts and technologies.
