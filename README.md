@@ -27,13 +27,28 @@ I'm always expanding my knowledge and exploring new areas. Currently, I'm focuse
 
     Company/Organization: Conarium Software
         Role: CEO
-        Duration: [Start Date] - [End Date]
-        Description: [Briefly describe your responsibilities and notable achievements]
+        Duration: 2019 - Now
+        Description: My own software shop, i've developed & published 1 game to steam so-far, CaveGame.
         
-    Company/Organization: Conarium Software
+    Company/Organization: LOVECRAFT TEAM / Gam.Bit / exo + aere
         Role: CTO
-        Duration: [Start Date] - [End Date]
-        Description: [Briefly describe your responsibilities and notable achievements]
+        Duration: 2021 - Now
+        Description: Chief engineer for a close-knit team of ROBLOX game developers, with a particular interest in realizing the capabilites of Virtual Reality on the platform. Responsible for all high-level technical decisions, implementing VR and other game systems and mechanics, as well as mentoring the "junior" developers in scripting & coding. We have published several experiences across genres on ROBLOX, racking in 10+ million visits and a dedicated community.
+        
+    Company/Organization: Redacted Software
+        Role: CTO
+        Duration: 2023 - Now
+        Description: This is my good friend William's group, and I work with him to develop software to solve practical problems, using C++ and the Linux platform. Our products include UserDB, TuxID, and several small utility programs for Linux such as TODO lists.
+        
+    Company/Organization: Squid Games
+        Role: Previously CTO, now consultant.
+        Duration: 2022 - Now
+        Description: Game designer, senior developer, and consultant for ROBLOX game development.
+        
+    Company/Organization: GameFam
+        Role: Entry-Level Developer
+        Duration: 6mo
+        Description: Responsible for implementing backend systems, game features, tracking down and fixing bugs, performance monitoring, and so forth.
 
     Freelance Projects: [List any relevant freelance projects you have worked on, mentioning the programming languages and technologies used]
 
