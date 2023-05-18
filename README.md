@@ -1,19 +1,20 @@
-# brogrammer
+### brogrammer
 Suh Dude, I'm Josh O'Leary. Welcome to my GitHub profile!
 
-# Contacts
+
+I'm a hobbyist and freelance programmer with a keen interest in computer graphics, physics, mathematics, game engines, and other scientific disciplines. I enjoy exploring the intersection of technology and creativity, and I'm constantly learning and experimenting with new concepts and technologies.
+
+### Contacts
 Email > josh@conarium.software
 
 Discord > brogrammer#6360
 
-Welcome to my GitHub profile! I'm a hobbyist and freelance programmer with a keen interest in computer graphics, physics, mathematics, game engines, and other scientific disciplines. I enjoy exploring the intersection of technology and creativity, and I'm constantly learning and experimenting with new concepts and technologies.
+### 🔭 What I'm Currently Working On
 
-🔭 What I'm Currently Working On
-
-I'm currently porting my old JUI Toolkit (Josh's User Interface) to C++ & SDL2. I previously developed it for Lua/Love2D, then ported it to C#/MonoGame.
+* Porting my old JUI Toolkit (Josh's User Interface) to C++ & SDL2. I previously developed it for Lua/Love2D, then ported it to C#/MonoGame.
 
 
-🌱 What I'm Currently Learning
+### 🌱 What I'm Currently Learning
 
 I'm always expanding my knowledge and exploring new areas. Currently, I'm focused on:
 
@@ -22,6 +23,7 @@ I'm always expanding my knowledge and exploring new areas. Currently, I'm focuse
     Exploring advanced mathematics concepts, such as linear algebra, calculus, and numerical methods, to improve my problem-solving abilities.
     Expanding my expertise in game engine development, studying different architectures and exploring optimization techniques.
     Continuing my journey with RedHat/Fedora Linux, honing my skills in system administration and troubleshooting.
+    Additionally, i've recently taken an interest in Reverse Engineering, and am learning Ghidra.
 
 💼 Experience
 
@@ -71,7 +73,9 @@ I'm always expanding my knowledge and exploring new areas. Currently, I'm focuse
 
 Apart from coding and technology, I have a few other interests:
 
-    [List any other hobbies or interests you have that may be relevant or showcase your personality]
+    * Chemistry, and specfically Organic Chem
+    * German Language, History, and Culture
+    * Electronics 
 
 📫 Get in Touch
 
