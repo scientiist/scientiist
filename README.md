@@ -18,12 +18,12 @@ Discord > brogrammer#6360
 
 I'm always expanding my knowledge and exploring new areas. Currently, I'm focused on:
 
-    Advancing my understanding of computer graphics techniques, including shaders, rendering algorithms, and real-time simulations.
-    Deepening my knowledge of physics principles and how they can be applied to interactive systems and simulations.
-    Exploring advanced mathematics concepts, such as linear algebra, calculus, and numerical methods, to improve my problem-solving abilities.
-    Expanding my expertise in game engine development, studying different architectures and exploring optimization techniques.
-    Continuing my journey with RedHat/Fedora Linux, honing my skills in system administration and troubleshooting.
-    Additionally, i've recently taken an interest in Reverse Engineering, and am learning Ghidra.
+    * Computer graphics techniques, including shaders, rendering algorithms, and real-time simulations.
+    * Physics principles and how they can be applied to interactive systems and simulations.
+    * Advanced mathematics concepts, such as linear algebra, calculus, and numerical methods, to improve my problem-solving abilities.
+    * Game engine development, studying different architectures and exploring optimization techniques.
+    * RedHat/Fedora Linux, honing my skills in system administration and troubleshooting.
+    * Additionally, i've recently taken an interest in Reverse Engineering, and am learning Ghidra.
 
 💼 Experience
 
@@ -65,9 +65,7 @@ I'm always expanding my knowledge and exploring new areas. Currently, I'm focuse
 
 📚 Education
 
-    Degree: [Degree Name]
-        University: [University Name]
-        Year: [Year]
+    I have currently not had the opportunity to attend University, but I intend to achieve a degree in Computer Science.
 
 🌟 Other Interests
 
@@ -87,4 +85,3 @@ I'm always excited to connect with fellow developers, collaborate on projects, o
 
 Feel free to explore my repositories to see some of my work. I'm open to feedback, suggestions, and contributions. Let's create something awesome together!
 
-Feel free to personalize and modify the template according to your preferences, experiences, and projects. Best of luck with your GitHub profile README!
